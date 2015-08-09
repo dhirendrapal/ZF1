@@ -1,0 +1,10 @@
+/bin
+/library
+/nbproject
+/vendor
+composer.phar
+CONTRIBUTING.md
+DEVELOPMENT_README.md
+INSTALL.md
+README-GIT.md
+
